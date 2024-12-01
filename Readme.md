@@ -19,7 +19,8 @@ Menjalankan Dashboard Streamlit Setelah melakukan analisis di notebook, Anda bis
 ## Salin kode
 streamlit run dashboard.py
 
-![image](https://github.com/user-attachments/assets/266f033b-e717-434e-9645-20dac1763ae0)
+![Uploading image.png…]()
+
 
 
 
